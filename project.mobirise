@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anouk Feyers en",
-    "currentPage": "page7.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 40,
+    "uniqCompNum": 41,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/img-9412-128x140.png",
@@ -774,68 +774,49 @@
           "_anchor": "footer1-f"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-lead": {
-              "color": "#fff"
-            }
-          },
+          "_inherit": "gallery1",
           "_params": {
-            "autoplay": false,
-            "showBullets": false,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "paddingTop": "4",
-            "paddingBottom": 4,
-            "slides": [
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
+            "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-9478.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "image": "@PROJECT_PATH@/assets/images/img-9481.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9481-653x1000.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-9677.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDER",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BACKGROUND VIDEO",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "image": "@PROJECT_PATH@/assets/images/img-9678.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9678-711x1000.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "slider2",
-          "_anchor": "slider2-i"
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-14"
         }
       ]
     },
@@ -1247,7 +1228,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-9481.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94810.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,

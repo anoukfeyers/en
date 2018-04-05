@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anouk Feyers en",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -65,13 +65,15 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -110,12 +112,16 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
-            "fontName": {},
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -254,12 +260,16 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
-            "fontName": {},
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -439,12 +449,16 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
-            "fontName": {},
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -535,12 +549,16 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
-            "fontName": {},
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -726,12 +744,16 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
-            "fontName": {},
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -887,12 +909,16 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
-            "fontName": {},
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1003,12 +1029,16 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
-            "fontName": {},
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1228,7 +1258,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-94815.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94810.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1361,12 +1391,16 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
-            "fontName": {},
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1567,12 +1601,16 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
-            "fontName": {},
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOMEPAGE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Paintings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">First bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Second bachelor painting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Third bachelor painting</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Drawings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Nude model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">The sketch &amp; the work</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,

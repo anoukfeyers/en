@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -427,13 +429,14 @@ h6,
 #menu-3 .link,
 #menu-3 .dropdown-item {
   color: #000000;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-3 .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-3 .link:hover,
 #menu-3 .dropdown-item:hover,

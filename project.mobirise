@@ -963,32 +963,12 @@
           "_anchor": "footer1-h"
         },
         {
-          "_params": {
-            "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">De schets &amp; Het werk</a> ",
-          "_tags": [
-            "Thema"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "buttons1-15"
-        },
-        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": false,
             "fullWidth": true,
             "spacing": 1,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": 1,
             "filterBgColor": true,
             "bgColor": "#ffffff",
@@ -1651,7 +1631,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-94810.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94811.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,

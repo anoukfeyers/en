@@ -736,6 +736,7 @@ h6,
 }
 
 
+
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -810,6 +811,10 @@ h6,
 }
 #header2-1b .mbr-section-text {
   color: #000000;
+}
+#slider3-1c SPAN {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-k .hide-buttons .nav-btn {
   display: none !important;

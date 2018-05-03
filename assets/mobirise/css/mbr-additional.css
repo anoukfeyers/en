@@ -606,6 +606,8 @@ h6,
 #menu-a .btn {
   font-size: 13px;
 }
+
+
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -622,13 +624,14 @@ h6,
 #menu-c .link,
 #menu-c .dropdown-item {
   color: #000000;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-c .link {
-  font-size: 0.8rem;
+  font-size: 0.95rem;
 }
 #menu-c .dropdown-item,
 #menu-c .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 1.029rem;
 }
 #menu-c .link:hover,
 #menu-c .dropdown-item:hover,
@@ -669,6 +672,16 @@ h6,
 }
 #menu-c .btn {
   font-size: 13px;
+}
+#header2-1e .mbr-section-text {
+  color: #000000;
+}
+#header2-1g .mbr-section-text {
+  color: #000000;
+}
+#slider3-1i SPAN {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
@@ -735,7 +748,6 @@ h6,
   font-size: 13px;
 }
 
-
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -800,16 +812,6 @@ h6,
 }
 #menu-g .btn {
   font-size: 13px;
-}
-#header2-19 .mbr-section-text {
-  color: #000000;
-}
-#header2-1b .mbr-section-text {
-  color: #000000;
-}
-#slider3-1c SPAN {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
 }
 #menu-k .hide-buttons .nav-btn {
   display: none !important;

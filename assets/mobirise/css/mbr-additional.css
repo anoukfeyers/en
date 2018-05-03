@@ -478,6 +478,10 @@ h6,
 #menu-3 .btn {
   font-size: 13px;
 }
+#menu-3 A {
+  font-size: 15px;
+}
+
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -494,13 +498,14 @@ h6,
 #menu-9 .link,
 #menu-9 .dropdown-item {
   color: #000000;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-9 .link {
-  font-size: 0.8rem;
+  font-size: 0.95rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 1.029rem;
 }
 #menu-9 .link:hover,
 #menu-9 .dropdown-item:hover,
@@ -542,6 +547,10 @@ h6,
 #menu-9 .btn {
   font-size: 13px;
 }
+#menu-9 A {
+  font-size: 15px;
+}
+
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -558,13 +567,14 @@ h6,
 #menu-a .link,
 #menu-a .dropdown-item {
   color: #000000;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-a .link {
-  font-size: 0.8rem;
+  font-size: 0.95rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 1.029rem;
 }
 #menu-a .link:hover,
 #menu-a .dropdown-item:hover,
@@ -605,6 +615,9 @@ h6,
 }
 #menu-a .btn {
   font-size: 13px;
+}
+#menu-a A {
+  font-size: 15px;
 }
 
 
@@ -673,16 +686,23 @@ h6,
 #menu-c .btn {
   font-size: 13px;
 }
+#menu-c A {
+  font-size: 15px;
+}
 #header2-1e .mbr-section-text {
   color: #000000;
 }
 #header2-1g .mbr-section-text {
   color: #000000;
 }
+#header2-1j .mbr-section-text {
+  color: #000000;
+}
 #slider3-1i SPAN {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
 }
+
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -699,13 +719,14 @@ h6,
 #menu-e .link,
 #menu-e .dropdown-item {
   color: #000000;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-e .link {
-  font-size: 0.8rem;
+  font-size: 0.95rem;
 }
 #menu-e .dropdown-item,
 #menu-e .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 1.029rem;
 }
 #menu-e .link:hover,
 #menu-e .dropdown-item:hover,
@@ -746,6 +767,9 @@ h6,
 }
 #menu-e .btn {
   font-size: 13px;
+}
+#menu-e A {
+  font-size: 15px;
 }
 
 #menu-g .hide-buttons .nav-btn {
@@ -813,6 +837,10 @@ h6,
 #menu-g .btn {
   font-size: 13px;
 }
+#menu-g A {
+  font-size: 15px;
+}
+
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -829,13 +857,14 @@ h6,
 #menu-k .link,
 #menu-k .dropdown-item {
   color: #000000;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-k .link {
-  font-size: 0.8rem;
+  font-size: 0.95rem;
 }
 #menu-k .dropdown-item,
 #menu-k .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 1.029rem;
 }
 #menu-k .link:hover,
 #menu-k .dropdown-item:hover,
@@ -877,6 +906,10 @@ h6,
 #menu-k .btn {
   font-size: 13px;
 }
+#menu-k A {
+  font-size: 15px;
+}
+
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -893,13 +926,14 @@ h6,
 #menu-n .link,
 #menu-n .dropdown-item {
   color: #000000;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-n .link {
-  font-size: 0.8rem;
+  font-size: 0.95rem;
 }
 #menu-n .dropdown-item,
 #menu-n .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 1.029rem;
 }
 #menu-n .link:hover,
 #menu-n .dropdown-item:hover,
@@ -941,6 +975,10 @@ h6,
 #menu-n .btn {
   font-size: 13px;
 }
+#menu-n A {
+  font-size: 15px;
+}
+
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -957,13 +995,14 @@ h6,
 #menu-r .link,
 #menu-r .dropdown-item {
   color: #000000;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-r .link {
-  font-size: 0.8rem;
+  font-size: 0.95rem;
 }
 #menu-r .dropdown-item,
 #menu-r .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 1.029rem;
 }
 #menu-r .link:hover,
 #menu-r .dropdown-item:hover,
@@ -1004,6 +1043,9 @@ h6,
 }
 #menu-r .btn {
   font-size: 13px;
+}
+#menu-r A {
+  font-size: 15px;
 }
 #msg-box6-12 .mbr-section-title,
 #msg-box6-12 .lead p {

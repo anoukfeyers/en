@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anouk Feyers en",
-    "currentPage": "page5.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,12 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#282828"
+        "#282828",
+        "#daa28e"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 72,
+    "uniqCompNum": 78,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/img-9412-128x140.png",
@@ -2432,7 +2433,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-95490.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-95494.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2478,7 +2479,7 @@
                 "videoPreview": "../../app/themes/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-96781.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-96785.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9678-711x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2513,7 +2514,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-96842.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-96846.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9684-698x1000.jpg",
                 "alt": "",
                 "title": "",
@@ -2525,7 +2526,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-94813.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94817.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9481-653x1000.jpg",
                 "alt": "",
                 "title": "",
@@ -2726,6 +2727,67 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-12"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#daa28e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact&nbsp;</a>",
+          "text1": "<strong>Studies&nbsp;</strong><br>Technisch Instituut Heilig Familie Brugge<br><br>Luca School Of Arts Gent&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<br>anoukfeyers3@gmail.com",
+          "text2": "<div><font color=\"#bcbcbc\"><span style=\"font-size: 14px;\"></span></font></div>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "anoukfeyers3@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-25",
+          "_styles": {
+            "DIV": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     }

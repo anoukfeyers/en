@@ -840,6 +840,9 @@ h6,
 #menu-g A {
   font-size: 15px;
 }
+#header2-1u .mbr-section-text {
+  color: #000000;
+}
 
 #menu-k .hide-buttons .nav-btn {
   display: none !important;

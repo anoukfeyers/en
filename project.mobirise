@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anouk Feyers en",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2494,53 +2494,6 @@
           "allItem": "All",
           "_name": "gallery4",
           "_anchor": "gallery4-1v"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "5",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "fff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Responsive",
-                "videoPreview": "../../app/themes/mobirise3/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-9692.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9692-648x1000.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true,
-                "title": ""
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "../../app/themes/mobirise3/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-96781.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9678-711x1000.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false,
-                "title": ""
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery4",
-          "_anchor": "gallery4-1y"
         },
         {
           "_inherit": "gallery1",

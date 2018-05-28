@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -2433,7 +2433,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-95498.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-954912.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2479,7 +2479,7 @@
                 "videoPreview": "../../app/themes/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-96789.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-967813.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9678-711x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2514,7 +2514,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-968410.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-968414.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9684-698x1000.jpg",
                 "alt": "",
                 "title": "",
@@ -2526,7 +2526,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-948111.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-948115.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9481-653x1000.jpg",
                 "alt": "",
                 "title": "",
@@ -2730,19 +2730,19 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#daa28e",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact&nbsp;</a>",
-          "text1": "<strong>Studies&nbsp;</strong><br>Technisch Instituut Heilig Familie Brugge<br><br>Luca School Of Arts Gent&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<br>anoukfeyers3@gmail.com",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact&nbsp;</a>",
+          "text1": "<strong>Studies&nbsp;</strong><br>Technisch Instituut Heilig Familie Brugge<br><br>Luca School Of Arts Gent&nbsp;<br><br><br>\n<strong>Contact</strong><br>\nEmail:&nbsp;<br>anoukfeyers3@gmail.com",
           "text2": "<div><font color=\"#bcbcbc\"><span style=\"font-size: 14px;\"></span></font></div>",
           "form": {
             "title": "MESSAGE",
@@ -2757,7 +2757,7 @@
                 "customTitle": "Name*"
               },
               "email": {
-                "visible": true,
+                "visible": false,
                 "title": "Email",
                 "customTitle": "Email*"
               },
@@ -2768,7 +2768,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": ""
               }
             }
           },

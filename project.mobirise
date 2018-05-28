@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anouk Feyers en",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -102,7 +102,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-size": "13px"
@@ -2433,7 +2433,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-954912.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-95490.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2479,7 +2479,7 @@
                 "videoPreview": "../../app/themes/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-967813.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-96781.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9678-711x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2514,7 +2514,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-968414.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-96842.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9684-698x1000.jpg",
                 "alt": "",
                 "title": "",
@@ -2526,7 +2526,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-948115.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94813.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9481-653x1000.jpg",
                 "alt": "",
                 "title": "",

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anouk Feyers en",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -257,7 +257,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-size": "13px"
@@ -417,19 +417,19 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-9467.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9467-691x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9495.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9495-666x1000.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -721,7 +721,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-size": "13px"
@@ -2433,7 +2433,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-95490.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-95494.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2479,7 +2479,7 @@
                 "videoPreview": "../../app/themes/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-96781.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-96785.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9678-711x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2514,7 +2514,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-96842.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-96846.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9684-698x1000.jpg",
                 "alt": "",
                 "title": "",
@@ -2526,7 +2526,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-94813.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94817.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9481-653x1000.jpg",
                 "alt": "",
                 "title": "",
